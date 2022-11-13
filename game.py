@@ -20,4 +20,3 @@ while True:
         break
     
     
-    #ttest information - trassh
