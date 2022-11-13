@@ -18,3 +18,6 @@ while True:
     else:
         print(f"Вы угадали! Это число = {number}, за {count} попыток")
         break
+    
+    
+    #ttest information - trassh
