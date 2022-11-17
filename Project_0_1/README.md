@@ -3,4 +3,4 @@
 Если число больше или меньше загаданного, то меняется диапозон.
 В итоге выводится количество попыток и среднее значение попыток после 1000 повторений.
 
-[Google colab version](https://colab.research.google.com/drive/1fETraN1REqnFJx0ja1096yBn8l52gNLJ#scrollTo=m70TXgHBN828)
+[Google colab version](https://colab.research.google.com/drive/1fETraN1REqnFJx0ja1096yBn8l52gNLJ?usp=sharing)
